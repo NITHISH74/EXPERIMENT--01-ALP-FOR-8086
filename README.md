@@ -42,8 +42,8 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 ```
 name "ADDITION"
 org 100h
-MOV AH,05H;
-MOV BH,02H;
+MOV AH,50H;
+MOV BH,19H;
 ADD AH,BH;
 MOV CH,AH;
 MOV AH,00H;
@@ -57,8 +57,8 @@ HLT;
 ```
 name "SUBTRACTION"
 org 100h
-MOV AH,09H;
-MOV BH,03H;
+MOV AH,10H;
+MOV BH,05H;
 SUB AH,BH;
 MOV CH,AH;
 MOV AH,00H;
@@ -71,8 +71,8 @@ HLT;
 ```
 name "MULTIPLICATION"
 org 700h
-MOV AL,15H;
-MOV BL,03H;
+MOV AL,20H;
+MOV BL,04H;
 MUL BL;
 MOV CL,AL;
 MOV AL,00H;
