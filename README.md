@@ -3,7 +3,6 @@ Name :NITHISHWAR S
 
 Roll no :212221230071
 
-Date of experiment :09/09/2022
 
 ## Aim:
 To Write and execute ALP on fundamental arithmetic and logical operation.
@@ -24,7 +23,7 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 5.	Run (once there is no syntax error) 
 6.	Click OK to see/view the output of your program on the Emulator screen. 
 7.	After running the program, another menu screen will be displayed, where you have the option to “View” symbol table,
-8.	 
+8.
 
 ![image](https://user-images.githubusercontent.com/36288975/189273263-d65baae9-4b8f-4723-afb3-c0ffa4052b04.png)
 
